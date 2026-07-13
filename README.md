@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
