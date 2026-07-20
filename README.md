@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [1260-shift-2d-grid](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2596-check-knight-tour-configuration](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
