@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0486-predict-the-winner](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0486-predict-the-winner) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0877-stone-game) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1872-stone-game-viii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
