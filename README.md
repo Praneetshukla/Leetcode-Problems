@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0784-letter-case-permutation](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0784-letter-case-permutation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -312,5 +313,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
