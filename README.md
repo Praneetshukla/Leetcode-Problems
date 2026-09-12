@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0877-stone-game) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
