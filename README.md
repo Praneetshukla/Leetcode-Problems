@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1927-sum-game) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
