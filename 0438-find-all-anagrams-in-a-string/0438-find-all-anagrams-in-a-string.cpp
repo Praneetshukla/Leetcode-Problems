@@ -1,61 +1,27 @@
-
 class Solution {
 public:
-    vector<int> findAnagrams(string s, string p) { // check note too
-        int n = s.size(), m = p.size();
+    vector<int> findAnagrams(string s, string p) {
+        int n1 = s.size(), n2 = p.size();
         vector<int> ans;
-        if(n < m) return ans;
 
-        // Store character frequencies of s and p
-        unordered_map<char,int> smap, pmap;
-        for(char ch : p)
-            pmap[ch]++;
+        if (n1 < n2) return ans;
 
-        int count = 0; // Number of required characters matched
+        vector<int> a(26, 0), b(26, 0);
 
-        // Build first window of size m
-        int left = 0, right = 0;
-        while(right < m) {
-            char r = s[right];
-            smap[r]++;
-
-            // Count only required occurrences
-            if(pmap[r] > 0 && smap[r] <= pmap[r])
-                count++;
-
-            right++;
+        for (int i = 0; i < n2; i++) {
+            a[p[i] - 'a']++;
+            b[s[i] - 'a']++;
         }
 
-        // Valid anagram window
-        if(count == m)
-            ans.push_back(left);
+        if (a == b) ans.push_back(0);
 
-        // Slide: remove left, add right
-        while(right < n) {
+        for (int i = n2; i < n1; i++) {
+            b[s[i] - 'a']++;
+            b[s[i - n2] - 'a']--;
 
-            // Remove left character
-            char l = s[left];
-
-            // Decrease count only if it was contributing
-            if(pmap[l] > 0 && smap[l] <= pmap[l])
-                count--;
-
-            smap[l]--;
-            left++;
-
-            // Add right character
-            char r = s[right];
-            smap[r]++;
-
-            // Count only required occurrences
-            if(pmap[r] > 0 && smap[r] <= pmap[r])
-                count++;
-
-            // Valid anagram window
-            if(count == m)
-                ans.push_back(left);
-
-            right++;
+            if (a == b) {
+                ans.push_back(i - n2 + 1);
+            }
         }
 
         return ans;
