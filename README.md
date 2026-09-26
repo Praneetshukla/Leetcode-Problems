@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0784-letter-case-permutation](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0784-letter-case-permutation) |
 | [0940-distinct-subsequences-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
