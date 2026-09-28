@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
@@ -357,12 +358,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
