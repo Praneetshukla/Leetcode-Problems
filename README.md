@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -486,4 +488,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
