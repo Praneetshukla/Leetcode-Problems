@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1856-maximum-subarray-min-product](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1856-maximum-subarray-min-product) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1856-maximum-subarray-min-product](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1856-maximum-subarray-min-product](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1856-maximum-subarray-min-product) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1856-maximum-subarray-min-product](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1856-maximum-subarray-min-product) |
 ## Segment Tree
 |  |
 | ------- |
@@ -489,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
