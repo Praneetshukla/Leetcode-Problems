@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -501,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/1856-maximum-subarray-min-product) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Praneetshukla/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
